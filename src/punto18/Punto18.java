@@ -9,7 +9,7 @@ de la clase base, además, definir tres funciones miembro: Nueva_dirección, Nue
 y Mostrar(). Escribir un programa que cree un objeto de dirección, lea los datos y visualice
 la información.
  */
-package punto18;
+package punto18; 
 
 /**
  *
